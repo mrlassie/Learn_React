@@ -191,7 +191,7 @@ input {
   font-size: 16px;
   border: none;
   border-radius: 0 5px 5px 0;
-  background-color: #4caf50;
+  background-color: #2e66ff;
   color: #fff;
   cursor: pointer;
 }
@@ -329,7 +329,7 @@ input {
   .completion-notification {
     margin-top: 20px;
     font-size: 18px;
-    color: #4caf50;
+    color: #2e66ff;
     font-weight: bold;
   }
   
@@ -381,7 +381,7 @@ input {
     font-size: 14px;
     border-radius: 3px;
     cursor: pointer;
-    background-color: #4CAF50;
+    background-color: #2e66ff;
     color: #fff;
     border: none;
   }
